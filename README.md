@@ -71,6 +71,6 @@ LinkedIn: (https://linkedin.com/in/aswinsaipalakonda/)
 
 Email: aswinsaipalakonda@gmail.com
 
-🤝 Contributing
+# 🤝 Contributing: 
 Contributions are welcome! If you'd like to improve this website or add new features, feel free to fork the repo and submit a pull request.
 
