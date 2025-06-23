@@ -29,7 +29,7 @@ The website includes the following core pages:
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **EmailJS** (for contact form handling)
+- **EmailJS** (for contact form handling and
 - **Hosting**: GitHub Pages, Netlify
   
 ## 🚀 Getting Started
