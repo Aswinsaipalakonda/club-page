@@ -65,7 +65,7 @@ We use **Formspree** to handle contact form submissions:
 Hi, I'm **Aswin Sai** ! I'm passionate about front-end development and building fun, interactive web projects.
 Feel free to check out more of my work or connect with me online.
 
-Portfolio: (https://aswin.homessy.com)
+Portfolio: 
 
 LinkedIn: (https://linkedin.com/in/aswinsaipalakonda/)
 
