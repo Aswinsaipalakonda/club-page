@@ -31,7 +31,7 @@ The website includes the following core pages:
 - **JavaScript**
 - **EmailJS** (for contact form handling)
 - **Hosting**: GitHub Pages, Netlify
-- De dept
+- De
   
 ## 🚀 Getting Started
 
